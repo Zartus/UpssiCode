@@ -1,1 +1,2 @@
-# UpssiCodePetit projet inter-asso Upssitech/UPS
+Petit projet inter-asso
+Upssitech/UPS
